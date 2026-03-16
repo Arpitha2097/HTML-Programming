@@ -8,20 +8,5 @@ HTML practice files, exercises, and mini-projects built while learning web devel
 </div>
 
 <hr/>
-
-## 📌 About
-One or two lines explaining the purpose of the project.
-
-## ⚙️ How to Run
-```bash
-git clone https://github.com/username/project.git
-cd project
-python main.py
-```
-
-## 🛠️ Tech Used
-`Python` `NumPy` `Pandas`
-
 <hr/>
 
-<div align="center"><p>Made by <a href="https://github.com/username">Your Name</a></p></div>
